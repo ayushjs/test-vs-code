@@ -14,8 +14,7 @@ namespace SecondConsoleApp
             Console.WriteLine("Second console app!!");
             Console.ReadLine();
             
-            //end
-
+            //end of code
         }
     }
 }
