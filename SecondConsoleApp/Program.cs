@@ -10,8 +10,9 @@ namespace SecondConsoleApp
     {
         static void Main(string[] args)
         {
+            //added test comment
             Console.WriteLine("Second console app!!");
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
